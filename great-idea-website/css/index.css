@@ -66,6 +66,100 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 html {
-	margin :5% 1% 10% 5%;
-	width: 94%;
+	margin: 5%;
+}
+
+nav a {
+	color: gray;
+	text-decoration: none;
+	margin: 0 6% 0 0;
+	display: inline-block;
+	width: 6%;
+}
+
+nav .logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 3%;
+}
+
+.main_title {
+	width: 60%;
+	display: inline-block;
+	text-align: center;
+	padding: 10% 0;
+	margin: auto;
+	}
+
+.top_image {
+	width: 29%;
+	display: inline-block;
+	margin: 0;
+}
+
+h1 {
+	font-size: 500%;
+}
+
+h6 {
+	text-decoration: none;
+	border: 1px solid black;
+	padding: 2%;
+	width: 30%;
+	margin: 1% auto auto 34%;
+}
+
+h6 a {
+	text-decoration: none;
+	color: black;
+}
+
+.top_section {
+	border-bottom: 1px solid black;
+	margin: auto 5% 3% auto;
+}
+
+.features_box {
+	width: 45%;
+	display: inline-block;
+	margin: auto auto 3% auto;
+}
+
+.about_box {
+	width: 45%;
+	display: inline-block;
+	margin: auto auto 3% 5%;
+}
+
+.middle-img {
+	width: 95%;
+	margin: auto auto 3% auto;
+}
+
+.services_box {
+	width: 30%;
+	display: inline-block;
+	margin: auto auto 3% 1%;
+}
+
+.product_box {
+	width: 30%;
+	display: inline-block;
+	margin: auto auto 3%o 1%;
+}
+
+.vision_box {
+	width: 30%;
+	display: inline-block;
+	margin: auto auto 3% 1%;
+}
+
+.middle_section {
+	border-bottom: 1px solid black;
+	margin: auto 5% 3% auto;
+}
+
+.copyright {
+	text-align: center;
+	margin: auto auto 5% auto;
 }
